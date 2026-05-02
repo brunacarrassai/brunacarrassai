@@ -18,11 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </div>
 
-<a href="https://github.com/brunacarrassai/brunacarrassai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunacarrassai&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
-
 ###
 ## Connect with me!
 <div align="center">
