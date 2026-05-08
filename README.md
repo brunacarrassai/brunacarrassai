@@ -22,6 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
     <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+
+---
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=brunacarrassai&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 ---
