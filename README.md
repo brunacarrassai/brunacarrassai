@@ -7,7 +7,7 @@
 ## 👩‍💻 About Me
 - 💻 Programming teacher  
 - 🚀 Full Stack Developer in progress  
-- 🎓 Graduating in Systems Analysis and Development  
+- 🎓 Graduating in Systems Analysis and Development and Software Engineering
 - 🧠 Passionate about turning ideas into real projects  
 
 ---
