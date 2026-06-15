@@ -13,7 +13,7 @@
 ---
 
 ## 👩‍💻 About Me
-<p align="left">🎨 UX/UI Designer<br>💻 Front-End Developer in progress<br><br>🎓 Studying Systems Analysis and Development & Software Engineering<br>🧠 Passionate about turning ideas into meaningful digital experiences</p>
+<p align="left">🎨 UX/UI Designer<br>💻 Front-End Developer in progress<br>🎓 Studying Systems Analysis and Development & Software Engineering<br>🧠 Passionate about turning ideas into meaningful digital experiences</p>
 
 
 ---
